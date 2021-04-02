@@ -1,0 +1,26 @@
+{"questionlist":[
+{"cardfront":"CLASS",
+"cardback":"OBJECT FACTORY"
+},
+{"cardfront":"VARIABLE",
+"cardback":"DATA STORAGE"
+},
+{"cardfront":"INCREMENT",
+"cardback":"++"
+},
+{"cardfront":"DECREMENT",
+"cardback":"--"
+},
+{"cardfront":"AND",
+"cardback":"&&"
+},
+{"cardfront":"IS EQUAL",
+"cardback":"==="
+},
+{"cardfront":"NOT EQUAL",
+    "cardback":"!=="
+},
+{"cardfront":"MODEOLUS",
+    "cardback":"%"
+}
+]}
